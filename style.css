@@ -1,5 +1,6 @@
 * {
     background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 img {
     display: block;
@@ -18,4 +19,21 @@ img {
     font-size: 36px;
     color: #1CAC78;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.description-head {
+    text-align: center;
+    font-size: 28px;
+    color: royalblue;
+}
+
+.description {
+    text-align: center;
+    font-size: 24px;
+    color: royalblue;
+    font-weight: bolder;
+}
+
+.unimportant-text {
+    color: rgb(14, 57, 186);
 }
